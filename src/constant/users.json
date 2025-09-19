@@ -1298,4 +1298,17 @@
     "gender": true,
     "age": 146
   }
+},{
+  "id": 101,
+  "username": "admin",
+  "email": "admin99@gmail.com",
+  "isActive": true,
+  "position": "React Developer",
+  "password": "1234",
+  "personalInfo": {
+    "first_name": "Amirreza",
+    "last_name": "Goodarzi",
+    "gender": true,
+    "age": 146
+  }
 }]
